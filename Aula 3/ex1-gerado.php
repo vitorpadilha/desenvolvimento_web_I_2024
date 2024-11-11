@@ -72,23 +72,23 @@
             <input type="number" id="idade" name="idade" placeholder="Informe sua Idade."/>
         </div>
         <div class="itemWrapper">
-            <label>Sexo:</label>
-            <input type="radio" id="sexo_M" name="sexo" value="M">
-            <label for="sexo_M">Masculino</label><br>&nbsp;&nbsp;
-            <input type="radio" id="sexo_F" name="sexo" value="F">
-            <label for="sexo_F">Feminino</label><br>&nbsp;&nbsp;
-            <input type="radio" id="sexo_O" name="sexo" value="O">
+            <label>Sexo:</label>&nbsp;&nbsp;
+            <input type="radio" id="sexo_M" name="sexo" value="M">&nbsp;
+            <label for="sexo_M">Masculino</label>&nbsp;&nbsp;
+            <input type="radio" id="sexo_F" name="sexo" value="F">&nbsp;
+            <label for="sexo_F">Feminino</label>&nbsp;&nbsp;
+            <input type="radio" id="sexo_O" name="sexo" value="O">&nbsp;
             <label for="sexo_O">Outros</label>
         </div>
         <div class="itemWrapper">
-            <label>Esporte Preferido:</label>
-            <input type="checkbox" id="esporte_preferido_F" name="esporte_preferido" value="F">
+            <label>Esporte Preferido:</label>&nbsp;&nbsp;
+            <input type="checkbox" id="esporte_preferido_F" name="esporte_preferido" value="F">&nbsp;
             <label for="esporte_preferido_F">Futebol</label>&nbsp;&nbsp;
-            <input type="checkbox" id="esporte_preferido_V" name="esporte_preferido" value="V">
-            <label for="esporte_preferido_V">Vôlei</label><br>&nbsp;&nbsp;
-            <input type="checkbox" id="esporte_preferido_N" name="esporte_preferido" value="N">
-            <label for="esporte_preferido_N">Natação</label><br>&nbsp;&nbsp;
-            <input type="radio" id="esporte_preferido_O" name="esporte_preferido" value="O">
+            <input type="checkbox" id="esporte_preferido_V" name="esporte_preferido" value="V">&nbsp;
+            <label for="esporte_preferido_V">Vôlei</label>&nbsp;&nbsp;
+            <input type="checkbox" id="esporte_preferido_N" name="esporte_preferido" value="N">&nbsp;
+            <label for="esporte_preferido_N">Natação</label>&nbsp;&nbsp;
+            <input type="radio" id="esporte_preferido_O" name="esporte_preferido" value="O">&nbsp;
             <label for="esporte_preferido_O">Outros</label>
         </div>
         <div class="itemWrapper">
